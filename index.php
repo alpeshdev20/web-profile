@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <title>AR Technolabs</title>
   <?php require_once('head.php'); ?>
@@ -18,5 +17,4 @@
   </main>
   <?php require_once('footer.php'); ?>
 </body>
-
 </html>
