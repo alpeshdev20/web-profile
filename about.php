@@ -26,23 +26,23 @@
           </div>
           <div class="col-md-2 flex-center" data-aos="fade-up" data-aos-delay="200">
             <i class="bx bx-bulb"></i>
-            <h4>CONCEPT</h4>
+            <h4>PROTOTYPING</h4>
           </div>
           <div class="col-md-2 flex-center" data-aos="fade-up" data-aos-delay="300">
             <i class="bx bx-atom"></i>
-            <h4>PREPARE</h4>
+            <h4>DESIGN</h4>
           </div>
           <div class="col-md-2 flex-center" data-aos="fade-up" data-aos-delay="400">
             <i class="bx bx-pulse"></i>
-            <h4>RETOUCH</h4>
+            <h4>DEVELOPMENT</h4>
           </div>
           <div class="col-md-2 flex-center" data-aos="fade-up" data-aos-delay="500">
             <i class="bx bx-receipt"></i>
-            <h4>FINALIZE</h4>
+            <h4>TESTING</h4>
           </div>
           <div class="col-md-2 flex-center" data-aos="fade-up" data-aos-delay="600">
             <i class="bx bx-cube-alt"></i>
-            <h4>DEPLOY</h4>
+            <h4>DEPLOYMENT</h4>
           </div>
         </div>
       </div>
