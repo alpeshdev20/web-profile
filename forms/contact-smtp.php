@@ -45,7 +45,7 @@ try {
     $mail->Body    = "Name: " . $fromName . "<br />Email: " . $fromEmail . " <br />" . $emailMessage;
 
     $mail->send();
-    echo 'Message has been sent';
+    echo 'OK';
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
