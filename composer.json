@@ -1,0 +1,17 @@
+{
+    "name": "alpesh/web-profile",
+    "autoload": {
+        "psr-4": {
+            "Alpesh\\WebProfile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alpesh Vaghela",
+            "email": "alpesh.dev20@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
