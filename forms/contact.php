@@ -1,4 +1,8 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 $to = 'info@artechnolabs.com';
 $from_name = $_POST['name'];
 $from_email = $_POST['email'];
