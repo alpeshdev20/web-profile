@@ -22,15 +22,19 @@ try {
     $emailSubject = $_POST['subject'];
     $emailMessage = $_POST['message'];
 
+    $smtpEmail = 'alpeshspce2020@gmail.com';
+    // $smtpPassword = 'XXXXXXXXXX';
+
     //Server settings
-    $mail->isSMTP();                                            
-    $mail->Host       = 'smtp.gmail.com';                       
-    $mail->SMTPAuth   = true;                                   
-    $mail->Username   = 'alpeshspce2020@gmail.com';             
-    $mail->Password   = 'XXXXXXXXXX';                         
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            
-    $mail->Port       = 465;                                    
-    
+    $mail->isSMTP();
+    $mail->Host       = 'smtp.gmail.com';
+    // $mail->SMTPDebug = 3;
+    $mail->SMTPAuth   = true;
+    $mail->Username   = $smtpEmail;
+    $mail->Password   = $smtpPassword;
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+    $mail->Port       = 587;
+
     //Recipients
     $mail->setFrom($fromEmail, $fromName);
     $mail->addAddress($emailTo, 'Alpesh Vaghela');
@@ -38,8 +42,7 @@ try {
     //Content
     $mail->isHTML(true);
     $mail->Subject = $emailSubject;
-    $mail->Body    = $emailMessage;
-    $mail->AltBody = '<br /> <br />All rights reserved AR Techolabs.';
+    $mail->Body    = "Name: " . $fromName . "<br />Email: " . $fromEmail . " <br />" . $emailMessage;
 
     $mail->send();
     echo 'Message has been sent';
