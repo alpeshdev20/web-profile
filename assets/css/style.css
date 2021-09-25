@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #header .logo h1 {
   font-size: 30px;
   margin: 0;
-  padding: 6px 0;
+  padding: 0;
   line-height: 1;
   font-weight: 400;
   letter-spacing: 2px;
@@ -91,15 +91,22 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   max-height: 40px;
 }
 
-#header h1.company-title a {
+#header h1.company-title a .title {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#header h1.company-title a .sub-text {
+#header h1.company-title a .text-sub-text {
   margin-left: 10px;
 }
+
+#header h1.company-title a .sub-text {
+  color: #7a6960;
+  font-size: 12px;
+  margin-left: 6px;
+}
+
 #main {
   margin-top: 72px;
 }

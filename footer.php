@@ -4,15 +4,12 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 footer-contact" data-aos="fade-up" data-aos-delay="100">
           <h3>AR Technolabs</h3>
-          <p>
-            C-308 Ahmedabad <br>
-            Gujrarat, 382424<br>
-            India <br><br>
+          <p>1008, Ganesh Glori,<br />Jagatpur Road, S.G Highway,<br />Ahmedabad, Gujarat<br /><br />
             <strong>Phone:</strong> +91 8734947948<br>
             <strong>Email:</strong> info@artechnolabs.com<br>
           </p>
         </div>
-        <!-- <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="200">
           <h4>Useful Links</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
@@ -42,7 +39,7 @@
             <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
             <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           </div>
-        </div> -->
+        </div>
       </div>
     </div>
   </div>
