@@ -10,7 +10,7 @@
                     <div class="address">
                         <i class="icofont-google-map"></i>
                         <h4>Location:</h4>
-                        <p>Ahmedabad, Gujarat, India 382424</p>
+                        <p>Ahmedabad, Gujarat, India</p>
                     </div>
                     <div class="email">
                         <i class="icofont-envelope"></i>
