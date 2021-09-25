@@ -13,31 +13,31 @@
           <h4>Useful Links</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#about">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="index.php#services">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="terms-and-conditions.php">Terms of service</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="privacy-policy.php">Privacy policy</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="300">
           <h4>Our Services</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Mobile Apps</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">E-Commerce</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Full Stack Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">CMS Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Web Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Mobile Apps</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">E-Commerce</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Full Stack Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">CMS Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Web Design</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="400">
           <h4>Connect With Us</h4>
           <div class="social-links mt-3">
-            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a> -->
+            <a href="https://www.instagram.com/artechnolabs/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
+            <a href="https://www.linkedin.com/company/ar-technolabs/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           </div>
         </div>
       </div>

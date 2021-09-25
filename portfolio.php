@@ -2,7 +2,7 @@
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>Portfolio</h2>
-          <p>Check out our beautiful portfolio</p>
+          <p>Several Projects</p>
         </div>
         <?php /* <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12">
@@ -58,5 +58,51 @@
             </div>
           </div>
         </div>
+        <?php /*
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/cr.png" class="img-fluid" alt="consumer-reports">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/cr.png" data-gall="portfolioGallery" class="venobox"
+                  title="Consumer Reports"><i class="icofont-plus-circle"></i></a>
+                <a href="https://cr.org/cars/" target="_blank" title="More Details"><i class="icofont-link"></i></a>
+              </div>
+              <div class="portfolio-info">
+                <h4>Consumer Reports</h4>
+                <p>Car Management</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/vfl.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/vfl.png" data-gall="portfolioGallery" class="venobox"
+                  title="Video For Les"><i class="icofont-plus-circle"></i></a>
+                <a href="https://videos-for-less.com/" target="_blank" title="More Details"><i class="icofont-link"></i></a>
+              </div>
+              <div class="portfolio-info">
+                <h4>Videos for less</h4>
+                <p>Online video creation</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/autocreditfinancial.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/autocreditfinancial.png" data-gall="portfolioGallery" class="venobox"
+                  title="Auto credit financial"><i class="icofont-plus-circle"></i></a>
+                <a href="https://www.autocreditfinancial.ca/" target="_blank" title="More Details"><i class="icofont-link"></i></a>
+              </div>
+              <div class="portfolio-info">
+                <h4>Auto credit financial</h4>
+                <p>Car finance website</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        */ ?>
       </div>
     </section>
