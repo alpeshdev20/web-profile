@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 footer-contact" data-aos="fade-up" data-aos-delay="100">
           <h3>AR Technolabs</h3>
-          <p>1008, Ganesh Glori,<br />Jagatpur Road, S.G Highway,<br />Ahmedabad, Gujarat<br /><br />
+          <p>1008, Ganesh Genesis,<br />Jagatpur Road, S.G Highway,<br />Ahmedabad, Gujarat<br /><br />
             <strong>Phone:</strong> +91 8734947948<br>
             <strong>Email:</strong> info@artechnolabs.com<br>
           </p>
@@ -12,7 +12,6 @@
         <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="200">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="index.php#about">About us</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="index.php#services">Services</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="terms-and-conditions.php">Terms of service</a></li>
@@ -22,12 +21,12 @@
         <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="300">
           <h4>Our Services</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Web Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Mobile Apps</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">E-Commerce</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Full Stack Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">CMS Development</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="javascript:;">Web Design</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">Mobile Apps</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">E-Commerce</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">Full Stack Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">CMS Development</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Design</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="400">
