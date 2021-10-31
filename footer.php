@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 footer-contact" data-aos="fade-up" data-aos-delay="100">
           <h3>AR Technolabs</h3>
-          <p>1008, Ganesh Genesis,<br />Jagatpur Road, S.G Highway,<br />Ahmedabad, Gujarat<br /><br />
-            <strong>Phone:</strong> +91 8734947948<br>
+          <p>1008, Ganesh Glori,<br />Jagatpur Road, S.G Highway,<br />Ahmedabad, Gujarat<br /><br />
+            <!-- <strong>Phone:</strong> +91 8734947948<br> -->
             <strong>Email:</strong> info@artechnolabs.com<br>
           </p>
         </div>
