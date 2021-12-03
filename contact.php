@@ -17,11 +17,11 @@
                         <h4>Email:</h4>
                         <p>info@artechnolabs.com</p>
                     </div>
-                    <?php /*<div class="phone">
+                    <!--<div class="phone">
                         <i class="icofont-phone"></i>
                         <h4>Call:</h4>
                         <p>+91 8737647948</p>
-                    </div><?php * / ?>
+                    </div>-->
                     <iframe src="https://maps.google.com/maps?q=Ganesh%20Genesis%20Tragad&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
                 </div>
             </div>
